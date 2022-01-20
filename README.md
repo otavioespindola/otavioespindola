@@ -1,4 +1,4 @@
-# Eu sou o Otávio, seja bem vindo ao meu GitHub! ✌️😁
+# Oi, eu sou o Otávio, seja bem vindo ao meu GitHub! ✌️😁
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ota-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
